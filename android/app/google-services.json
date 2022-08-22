@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "183398183101",
+    "project_id": "pizaaz-corner-project",
+    "storage_bucket": "pizaaz-corner-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183398183101:android:36b7e4c44cb9d9a5b5c7d4",
+        "android_client_info": {
+          "package_name": "com.example.pizza_corner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183398183101-2llgmufuvr3eofek1ksmh1fjp2vf7023.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pizza_corner",
+            "certificate_hash": "d2f176fd361253406ee7934d01a3d35fefde6d35"
+          }
+        },
+        {
+          "client_id": "183398183101-3md0k1i9skrstsi37570ien7j4iq4d4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl_lXCYPDHo1aj2neDnjnxqyYWptWpauk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183398183101-3md0k1i9skrstsi37570ien7j4iq4d4t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183398183101-6kal4445dkg71egklbu5g9uauj05dpn3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pizzaCorner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183398183101:android:4bacd8eaf36908b5b5c7d4",
+        "android_client_info": {
+          "package_name": "com.example.pizza_corner_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183398183101-3md0k1i9skrstsi37570ien7j4iq4d4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl_lXCYPDHo1aj2neDnjnxqyYWptWpauk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183398183101-3md0k1i9skrstsi37570ien7j4iq4d4t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183398183101-6kal4445dkg71egklbu5g9uauj05dpn3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pizzaCorner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
